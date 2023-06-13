@@ -1,4 +1,5 @@
 # WeatherAppInAndroidStudio
 This is amazing weather app which uses open weather api and it can fetch the weather of your current location or any particular city. The UI of the app is completely responsive 
 
-(https://user-images.githubusercontent.com/64765400/103085628-1c2cac00-4597-11eb-9c40-3d1663e0a39a.png)
+![alt text](https://user-images.githubusercontent.com/64765400/103085628-1c2cac00-4597-11eb-9c40-3d1663e0a39a.png)
+
